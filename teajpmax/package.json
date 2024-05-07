@@ -1,6 +1,6 @@
 {
   "name": "teajpmax",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -68,7 +68,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chossopian/teajpmax.git"
+    "url": "https://github.com/chossopian/teajpmax"
   },
   "author": "",
   "license": "ISC",
